@@ -12,6 +12,5 @@
     }
 ?>
 </pre>
-        <h1>This is vuln test page</h1>
 </body>
 </html>
